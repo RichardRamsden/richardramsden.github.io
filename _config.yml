@@ -30,7 +30,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: minima
+theme: dinky
 #remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
