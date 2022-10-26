@@ -30,11 +30,9 @@ twitter_username:
 github_username:  
 
 # Build settings
-#theme: dinky
-remote_theme: pages-themes/dinky@v0.2.0
+theme: Dinky
 plugins:
   - jekyll-feed
-  - jekyll-remote-them
 
 # Exclude from processing.
 # The following items will not be processed, by default.
